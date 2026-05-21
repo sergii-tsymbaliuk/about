@@ -162,6 +162,11 @@ Senior software engineer specializing in large-scale distributed systems, cloud 
 **M.S. Computer Science** — Kyiv Polytechnic Institute, Ukraine, 2004  
 **B.S. Computer Science** — Kyiv Polytechnic Institute, Ukraine, 2002
 
+## Publications
+
+- **Authentication on Cisco Network Devices Using Active Directory** — *System Administrator Magazine*, 2011
+  Original title: «Аутентификация на сетевых устройствах CISCO средствами Active Directory» | [habr.com/ru/articles/135419](https://habr.com/ru/articles/135419/)
+
 ## Certifications
 
 - Google Cloud Certified Professional — 2018
