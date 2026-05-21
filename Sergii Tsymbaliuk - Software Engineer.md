@@ -164,8 +164,7 @@ Senior software engineer specializing in large-scale distributed systems, cloud 
 
 ## Publications
 
-- **Authentication on Cisco Network Devices Using Active Directory** — *System Administrator Magazine*, 2011
-  Original title: «Аутентификация на сетевых устройствах CISCO средствами Active Directory» | [habr.com/ru/articles/135419](https://habr.com/ru/articles/135419/)
+- **Authentication Authorization Accounting: Integrating Cisco with Microsoft Active Directory** — *System Administrator Magazine*, №1-2 (98-99), 2011 | [samag.ru/archive/more/103](https://samag.ru/archive/more/103)
 
 ## Certifications
 
