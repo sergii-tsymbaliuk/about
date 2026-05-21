@@ -81,10 +81,10 @@ Senior software engineer specializing in large-scale distributed systems, cloud 
 
 **Toolset:** Java, Jetty, Guice, gRPC, Docker, Kubernetes, fabric8, AWS SDK, Apache Kafka, Apache Cassandra, Redis, Apache ZooKeeper, Apache Curator, AWS DynamoDB
 
-### Software Engineer — EPAM for Google
-*Apr 2016 – Jul 2019 | Mountain View, CA*
+### Software Engineer — EPAM for Google (YouTube Creator Academy)
+*Apr 2018 – Jul 2019 | Mountain View, CA*
 
-**Project:** YouTube Creator Academy *(Apr 2018 – Jul 2019)* — online learning platform for YouTube content creators; backend engineering.
+**Project:** Online learning platform for YouTube content creators; backend engineering.
 
 **Achievements:**
 
@@ -96,7 +96,12 @@ Senior software engineer specializing in large-scale distributed systems, cloud 
 
 - Migrated the App Engine service to Java 8 and Google Cloud Endpoints v2.0, enabling gRPC support for downstream services.
 
-**Project:** Google Search Appliance *(Apr 2016 – Apr 2018)* — Google-manufactured enterprise search appliance for corporate intranet and file systems; platform infrastructure team.
+**Toolset:** Java, Python, TypeScript, AngularJS, REST, Protobuf, gRPC, BigTable, BigQuery, MySQL, Bazel, Google Cloud Platform
+
+### Software Engineer — EPAM for Google (Google Search Appliance)
+*Apr 2016 – Apr 2018 | Mountain View, CA*
+
+**Project:** Google-manufactured enterprise search appliance for corporate intranet and file systems; platform infrastructure team.
 
 **Achievements:**
 
@@ -108,7 +113,7 @@ Senior software engineer specializing in large-scale distributed systems, cloud 
 
 - Created a distributed log collection system for a bare-metal test machine pool, enabling teams to aggregate installation and debug logs across remote infrastructure.
 
-**Toolset:** Java, Python, Django, SQLAlchemy, TypeScript, AngularJS, REST, Protobuf, gRPC, Google Borg, BigTable, BigQuery, MySQL, Bazel, Linux, Docker, Shell Scripting, iptables, OpenVPN, Google Cloud Platform
+**Toolset:** Java, Python, Django, SQLAlchemy, REST, Protobuf, gRPC, Google Borg, MySQL, Bazel, Linux, Docker, Shell Scripting, iptables, OpenVPN, Google Cloud Platform
 
 ### Application Support Team Lead — EPAM for Barclays
 *Aug 2012 – Apr 2016 | Kyiv, Ukraine*
@@ -121,16 +126,15 @@ Senior software engineer specializing in large-scale distributed systems, cloud 
 
 **Toolset:** Java, MongoDB, Linux, Microsoft SQL Server, T-SQL, C#/.NET, Autosys, Jira, Perforce, ServiceNow, Agile/Scrum/Kanban
 
-### ING Bank Ukraine
-*Oct 2005 – Aug 2012 | Kyiv, Ukraine*
-
-#### Product Manager
-*May 2011 – Aug 2012*
+### Product Manager — ING Bank Ukraine
+*May 2011 – Aug 2012 | Kyiv, Ukraine*
 
 - Led the release of a Cyrillic transliteration module for the SWIFT processing system, shifting international transfers from paper-based to electronic SWIFT transactions and significantly reducing processing time.
 
-#### Senior Infrastructure Engineer & Network Architect
-*Nov 2005 – May 2011*
+**Toolset:** SWIFT, Oracle Application Server, Oracle Database, Java, JavaScript
+
+### Senior Infrastructure Engineer & Network Architect — ING Bank Ukraine
+*Nov 2005 – May 2011 | Kyiv, Ukraine*
 
 - Designed and deployed highly available internet and WAN connectivity across multiple bank data centers.
 
@@ -142,7 +146,7 @@ Senior software engineer specializing in large-scale distributed systems, cloud 
 
 - Established multipath LAN/WAN routing using BGP/OSPF with route redistribution, eliminating cold-standby infrastructure dependency.
 
-**Toolset:** Cisco IOS, Checkpoint Firewall, Linux, Oracle Application Server, Oracle Database, MS SQL Server, Microsoft Active Directory, TCP/IP, DNS, OSPF, BGP, IPSec, VPN, VMware ESXi, Citrix XenApp, SWIFT, Java, JavaScript
+**Toolset:** Cisco IOS, Checkpoint Firewall, Linux, MS SQL Server, Microsoft Active Directory, TCP/IP, DNS, OSPF, BGP, IPSec, VPN, VMware ESXi, Citrix XenApp
 
 ### Lead System Administrator — Naftogaz of Ukraine DC Gas-Heat
 *Sep 2003 – Oct 2005 | Kyiv, Ukraine*
