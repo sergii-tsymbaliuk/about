@@ -162,6 +162,10 @@ Senior software engineer specializing in large-scale distributed systems, cloud 
 **M.S. Computer Science** — Kyiv Polytechnic Institute, Ukraine, 2004  
 **B.S. Computer Science** — Kyiv Polytechnic Institute, Ukraine, 2002
 
+## Publications
+
+- **Authentication Authorization Accounting: Integrating Cisco with Microsoft Active Directory** — *System Administrator Magazine*, №1-2 (98-99), 2011 | [samag.ru/archive/more/103](https://samag.ru/archive/more/103)
+
 ## Certifications
 
 - Google Cloud Certified Professional — 2018
