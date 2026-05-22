@@ -165,10 +165,12 @@ Senior software engineer specializing in large-scale distributed systems, cloud 
 
 ## Education
 
-- **M.S. in Computer Science (With Honors)** — National Technical University of Ukraine "Kyiv Polytechnic Institute"
+- **M.S. in Computer Science (With Honors)**, 2004 — National Technical University of Ukraine "Kyiv Polytechnic Institute"
   *Specialization: Software of Automated Systems*
 
-- **M.S. in Finances (Economics & Enterprise)** — Kyiv National Economic University named after Vadym Hetman
+- **B.S. in Computer Science**, 2002 — National Technical University of Ukraine "Kyiv Polytechnic Institute"
+
+- **M.S. in Finances (Economics & Enterprise)**, 2009 — Kyiv National Economic University named after Vadym Hetman
   *Specialization: Financial Management in the Business Sphere*
 
 ## Publications
