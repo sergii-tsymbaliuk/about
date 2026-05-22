@@ -43,7 +43,9 @@ Senior software engineer specializing in large-scale distributed systems, cloud 
 
 **Achievements:**
 
-- Delivered a data retention solution for closed AWS accounts: led design, implementation, and multi-year historical data backfill. Ensured GDPR and CCPA compliance, mitigated legal and reputational risk, and eliminated manual Customer Support retention procedures.
+- Delivered a data retention solution for closed AWS accounts: led design, implementation, and multi-year historical data backfill. Explicitly removed PII to satisfy GDPR and CCPA requirements, mitigated legal and reputational risk, and eliminated manual Customer Support retention procedures.
+
+- Implemented a block-listing solution to prevent publicly disclosed account IDs from appearing in documentation and code examples, closing a security and compliance exposure at scale.
 
 - Automated infrastructure and service configuration generation for new AWS regions, reducing time-to-launch from weeks to hours and eliminating manual effort and human error.
 
@@ -67,9 +69,11 @@ Senior software engineer specializing in large-scale distributed systems, cloud 
 ### Senior Software Engineer — Apple
 *Jul 2019 – Aug 2020 | Cupertino, CA*
 
-**Project:** Apple Media Products — a cloud-hybrid distributed transcoding system at scale, used by Apple TV+, iTunes, and the App Store to convert production media assets into consumer formats.
+**Project:** Apple Media Products — a distributed transcoding system at scale used by Apple TV+, iTunes, and the App Store to convert production media assets into consumer formats. Contributed to the architectural shift from a legacy bare-metal media-conversion system to an elastic cloud-native solution.
 
 **Achievements:**
+
+- Integrated the media processing task scheduler with the media-encoding system for Apple TV+, enabling elastic workload distribution across the cloud-native fleet.
 
 - Built a pub/sub notification microservice for tracking media transcoding status and artifact readiness, enabling downstream consumers to react to pipeline events without polling.
 
@@ -96,7 +100,7 @@ Senior software engineer specializing in large-scale distributed systems, cloud 
 
 - Migrated the App Engine service to Java 8 and Google Cloud Endpoints v2.0, enabling gRPC support for downstream services.
 
-**Toolset:** Java, Python, TypeScript, AngularJS, REST, Protobuf, gRPC, BigTable, BigQuery, MySQL, Bazel, Google Cloud Platform
+**Toolset:** Java, Python, TypeScript, AngularJS, REST, Protobuf, gRPC, FlumeJava, MapReduce, Apache Beam, Cloud Dataflow, BigTable, BigQuery, Cloud Datastore, MySQL, Bazel, Google Cloud Platform
 
 ### Software Engineer — EPAM for Google (Google Search Appliance)
 *Apr 2016 – Apr 2018 | Mountain View, CA*
@@ -109,11 +113,11 @@ Senior software engineer specializing in large-scale distributed systems, cloud 
 
 - Designed and implemented a custom VPN solution (OpenVPN) for connecting developer machines to remote devices in isolated networks, reducing debug setup time from 2 hours to minutes.
 
-- Built a multi-layer RAID and filesystem health-check module for the self-monitoring and recovery service, reducing unrecoverable device failures and eliminating the need to ship hardware back to Google for recovery.
+- Built a multi-layer RAID and filesystem health-check module for the self-monitoring and recovery service, specifically targeting device failures caused by unsuccessful patch and upgrade attempts — reducing bricked devices and eliminating the need to ship hardware back to Google for recovery.
 
 - Created a distributed log collection system for a bare-metal test machine pool, enabling teams to aggregate installation and debug logs across remote infrastructure.
 
-**Toolset:** Java, Python, Django, SQLAlchemy, REST, Protobuf, gRPC, Google Borg, MySQL, Bazel, Linux, Docker, Shell Scripting, iptables, OpenVPN, Google Cloud Platform
+**Toolset:** Java, Python, Django, SQLAlchemy, REST, Protobuf, gRPC, Google Borg, Dremel, BigTable, Colossus, MySQL, Bazel, Linux, Docker, Shell Scripting, iptables, OpenVPN, Google Cloud Platform
 
 ### Application Support Team Lead — EPAM for Barclays
 *Aug 2012 – Apr 2016 | Kyiv, Ukraine*
@@ -121,6 +125,8 @@ Senior software engineer specializing in large-scale distributed systems, cloud 
 **Project:** Application support and incident management for Barclays Capital banking systems, leading a distributed team across multiple time zones.
 
 **Achievements:**
+
+- Played a pivotal role in migrating a core banking system to a microservices architecture: contributed to architectural design, planning, and implementation to enhance system scalability and operational efficiency.
 
 - Drove Agile Scrum and Kanban adoption across the support team, achieving ~30% increase in team throughput and 60% reduction in average incident response time.
 
