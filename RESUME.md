@@ -166,7 +166,7 @@ Senior software engineer specializing in large-scale distributed systems, cloud 
 ## Education
 
 - **M.S. in Computer Science (With Honors)**, 2004 — National Technical University of Ukraine "Kyiv Polytechnic Institute"
-  *Specialization: Software of Automated Systems*
+  *Specialization: Software of Automated Systems*. Thesis: Developed a multi-agent information system using neural networks and artificial life evolution algorithms.
 
 - **B.S. in Computer Science**, 2002 — National Technical University of Ukraine "Kyiv Polytechnic Institute"
 
